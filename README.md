@@ -1,5 +1,5 @@
-js-ionic-v1
-===========
+ionic-v1-starter-kit
+====================
 
 Ionic V1 starter-kit with Hasura Backend API integration.
 
