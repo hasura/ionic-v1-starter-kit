@@ -3,7 +3,7 @@ ionic-v1-starter-kit
 
 Ionic V1 starter-kit with Hasura Backend API integration.
 
-Checkout the [tutorial](https://docs.hasura.io/0.14/tutorials/ionic-v1-starter-kit-with-hasura.html) for more information on how to use this starter-kit.
+Checkout the [tutorial](https://docs.hasura.io/0.14/tutorials/ionic-v1-starter-kit-with-hasura-js-sdk.html) for more information on how to use this starter-kit.
 
 ## Using this project
 
